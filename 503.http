@@ -1,0 +1,13 @@
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+
+<html>
+        <head>
+                <title>STOP</title>
+        </head>
+        <body>
+        <h1> Algo esta mal, vuelve pronto</h1>
+        </body>
+</html>
